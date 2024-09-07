@@ -73,3 +73,8 @@
   .hide {
     display: none;
   }
+  h1{
+    color: #fff;
+    background-color: rgb(230, 91, 91);
+    border-radius: 3px solid red;
+  }
